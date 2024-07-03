@@ -88,5 +88,41 @@ public class ATM_INTERFACE {
     }
 }
 
+output
+Welcome to the ATM!
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: 1
+Your balance is: Rs. 100000.0
+Welcome to the ATM!
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: 2
+Enter the deposit amount: Rs. 10000
+Deposit successful.
+Welcome to the ATM!
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: 3
+Enter the withdrawal amount: Rs. 5000
+Withdrawal successful.
+Welcome to the ATM!
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: 1
+Your balance is: Rs. 105000.0
+Welcome to the ATM!
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
 
 
